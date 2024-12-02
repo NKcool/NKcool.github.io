@@ -1,1 +1,2 @@
-# NKcool.github.io
+# educato
+This project is responsive
